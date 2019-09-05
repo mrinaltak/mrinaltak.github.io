@@ -1,2 +1,2 @@
-# desh2608.github.io
+# mrinaltak.github.io
 Academic website.
