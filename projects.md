@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-- **Text Readability Analysis using Language Models**
+- **Text Readability Analysis using Language Models**  
 	Prof. Ashish Anand, IIT Guwahati
 	1. Designed a new fine-grained, computational measure of readability. Main conjecture was that the predictability of a text, as determined by standard language models, is a viable metric of its readability.
     2. Evaluated our metric on various datasets with known readability scores, such as simple and standard Wikipedia articles, labeled datasets from prior work on automatic readability scoring systems, and even created a new dataset by parsing freely available school textbooks.
