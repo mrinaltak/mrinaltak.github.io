@@ -3,6 +3,14 @@ layout: page
 title: Projects
 ---
 
+- **Payment Mechanism in Knapsack Auctions**  
+	Prof. G. Sajith, IIT Guwahati
+	1. Devised a frugal mechanism for Knapsack Auctions, which minimizes the payments.
+    2. Constructed Knapsack graph by reducing the knapsack problem to costliest path problem on a directed acyclic network.
+    3. By leveraging on the most optimal solution, minimised the payments being made to the agents to keep the mechanism incentive compatible.
+    
+	[Thesis](https://mrinaltak.github.io/projects/Thesis/Thesis.pdf){: .btn}
+
 - **Text Readability Analysis using Language Models**  
 	Prof. Ashish Anand, IIT Guwahati
 	1. Designed a new fine-grained, computational measure of readability. Main conjecture was that the predictability of a text, as determined by standard language models, is a viable metric of its readability.
