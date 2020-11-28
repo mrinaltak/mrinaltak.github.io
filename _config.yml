@@ -45,6 +45,7 @@ author:
   email: "mrinaltak@gmail.com"
   github: mrinaltak    # eg. daattali
   linkedin: mrinaltak
+  telephone: +1(413)247-4610
 
 # Select which links to show in the footer
 footer-links-active:
@@ -62,7 +63,7 @@ footer-links-active:
   instagram: false
   youtube: false
   spotify: false
-  telephone: false
+  telephone: true
 
 # Select which share links to show in posts
 share-links-active:
